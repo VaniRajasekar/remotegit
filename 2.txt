@@ -1,2 +1,4 @@
 this is second file in 
 branch 2
+
+Added in remote repo
