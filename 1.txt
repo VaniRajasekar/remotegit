@@ -6,3 +6,5 @@ git file
 
 this is done in b1
 Good Day!!
+
+this is done in my remote repo
